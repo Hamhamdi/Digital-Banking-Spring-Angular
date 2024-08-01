@@ -88,4 +88,4 @@ Available at `http://localhost:8080/swagger-ui.html` after starting the backend.
 
 ## License
 
-This project is licensed under the [LICENSE NAME] - see the LICENSE.md file for details.
+See the LICENSE.md file for details.
